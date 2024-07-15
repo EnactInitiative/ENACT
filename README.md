@@ -1,3 +1,4 @@
+#ENACT
 # Enact Initiative
 
 Welcome to **Enact Initiative** Founded and run by a single high school student, my mission is to improve the lives of community animals through donations, volunteer work, and raising awareness.
